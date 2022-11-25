@@ -19,3 +19,7 @@ char *StrCpy(char *src)
     *q = '\0';
     return a;
 }
+
+/**
+远程edit
+**/
